@@ -1,2 +1,1 @@
-## Simple python docker dev example for the official docker docs
-https://docs.docker.com/language/python/develop/
+### Testing deploy python + poastgresql database with docker full devop
