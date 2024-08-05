@@ -52,4 +52,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-/db
+
+# Version Controll
+.github
